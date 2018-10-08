@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiAplicacionMultiLenguaje</string>
+    <string name="action_settings">Settings</string>
+    <string name="descripcionImagen">This is a beautyfull picture of landscape</string>
+</resources>
