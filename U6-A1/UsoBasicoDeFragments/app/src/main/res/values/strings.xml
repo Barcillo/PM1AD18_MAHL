@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UsoBasicoDeFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragmentA">Contenido Fragmento A</string>
+    <string name="hello_blank_fragmentB">Este es el fragmengto B</string>
+</resources>
