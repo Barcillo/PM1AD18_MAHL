@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InterfazUsuarioFlexibleConFragments</string>
+    <string name="Semanal">Semanal</string>
+    <string name="Mensual">Mensual</string>
+    <string name="Inicio">Inicio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="menu_lateral">
+        <item>Inicio</item>
+        <item>Mensual</item>
+        <item>Semanal</item>
+    </string-array>
+</resources>
