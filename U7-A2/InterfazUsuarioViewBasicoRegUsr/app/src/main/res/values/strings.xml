@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InterfazUsuarioViewsBasicosRegUsr</string>
+    <string-array name="instituciones_array">
+        <item>ITSUR</item>
+        <item>ITESS</item>
+        <item>ITESI</item>
+        <item>UTNG</item>
+        <item>ITESO</item>
+        <item>ITL</item>
+        <item>UTSOE</item>
+        <item>ITM</item>
+    </string-array>
+    <string name="Guardar"> Guardar Registro</string>
+    <string name="se_guarda">¿Deseas Guardar los datos?</string>
+    <string name="OK"> Aceptar</string>
+</resources>
